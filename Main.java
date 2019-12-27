@@ -28,7 +28,7 @@ public class Main {
         Cube c = new Cube();
         c.scale(100);
         //c.translate(-100 ,50,-25);
-        c.rotate(78,67,29);
+        c.rotate(30,67,29);
         Viewer v = new Viewer(c);
     }
 
